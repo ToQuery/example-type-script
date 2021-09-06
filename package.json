@@ -1,0 +1,12 @@
+{
+  "name": "example-type-script",
+  "version": "1.0.0",
+  "description": "example-type-script",
+  "main": "index.js",
+  "repository": "git@github.com:ToQuery/example-type-script.git",
+  "author": "ToQuery <toquery@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
